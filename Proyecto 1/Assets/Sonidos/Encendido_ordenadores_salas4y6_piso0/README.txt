@@ -1,0 +1,1 @@
+Se usa en los pisos 0 y 1: cuando se interactua con los ordenadores de las salas 4 y 6 del piso 0.

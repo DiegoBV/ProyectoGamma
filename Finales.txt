@@ -1,0 +1,25 @@
+Posibles finales historia:
+   1. Salida al exterior:
+	1.1 Tras acabar con el jefe final, el protagonista consigue acceder a la última sala,
+	a través de la cual encuentra un conducto por el que escapar al exterior. El exterior
+	está todo arrasado, muerto, no queda nada debido a la radiación. Ha conseguido escapar,
+	pero ¿qué futuro le espera?
+
+	1.2 Igual que la anterior. A diferencia de que en esta versión, debido a la radiación
+	la vida en la Tierra ha mutado. El protagonista se encuentra frente a un planeta
+	completamente distinto del descrito. El planeta no está muerto como se creía.
+
+   2. Camino sin salida:
+	2.1 El protagonista recorre una zona de pruebas que es un bucle, no acaba nunca. Cuando
+	llega al final vuelve al punto de partida, no hay salida.
+
+	2.2 Cuando se cae por la trampilla o después de matar al jefe final, el protagonista 
+	cae en una sala repleta de cadáveres de otros clones. Es un punto de muerto, no hay 
+	salida. Debido a la caída, no puedo moverse, se queda allí paralizado hasta morir.
+	Esto se debe a que el recorrido es una fase de pruebas que se le hacen a los clones
+	para saber si son actos o no, después se acaba con ellos para extraer muestras.
+
+Jefe final:
+   1. Rata mutante gigante
+
+   2. Científico loco mutante

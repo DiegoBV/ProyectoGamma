@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 0ceb72b3261efbf428291dc3fead3776
+timeCreated: 1490171957
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blank_sprite_sheet_4_2_by_knightyamato_0
+    21300002: blank_sprite_sheet_4_2_by_knightyamato_1
+    21300004: blank_sprite_sheet_4_2_by_knightyamato_2
+    21300006: blank_sprite_sheet_4_2_by_knightyamato_3
+    21300008: blank_sprite_sheet_4_2_by_knightyamato_4
+    21300010: blank_sprite_sheet_4_2_by_knightyamato_5
+    21300012: blank_sprite_sheet_4_2_by_knightyamato_6
+    21300014: blank_sprite_sheet_4_2_by_knightyamato_7
+    21300016: blank_sprite_sheet_4_2_by_knightyamato_8
+    21300018: blank_sprite_sheet_4_2_by_knightyamato_9
+    21300020: blank_sprite_sheet_4_2_by_knightyamato_10
+    21300022: blank_sprite_sheet_4_2_by_knightyamato_11
+    21300024: blank_sprite_sheet_4_2_by_knightyamato_12
+    21300026: blank_sprite_sheet_4_2_by_knightyamato_13
+    21300028: blank_sprite_sheet_4_2_by_knightyamato_14
+    21300030: blank_sprite_sheet_4_2_by_knightyamato_15
+    21300032: blank_sprite_sheet_4_2_by_knightyamato_16
+    21300034: blank_sprite_sheet_4_2_by_knightyamato_17
+    21300036: blank_sprite_sheet_4_2_by_knightyamato_18
+    21300038: blank_sprite_sheet_4_2_by_knightyamato_19
+    21300040: blank_sprite_sheet_4_2_by_knightyamato_20
+    21300042: blank_sprite_sheet_4_2_by_knightyamato_21
+    21300044: blank_sprite_sheet_4_2_by_knightyamato_22
+    21300046: blank_sprite_sheet_4_2_by_knightyamato_23
+    21300048: blank_sprite_sheet_4_2_by_knightyamato_24
+    21300050: blank_sprite_sheet_4_2_by_knightyamato_25
+    21300052: blank_sprite_sheet_4_2_by_knightyamato_26
+    21300054: blank_sprite_sheet_4_2_by_knightyamato_27
+    21300056: blank_sprite_sheet_4_2_by_knightyamato_28
+    21300058: blank_sprite_sheet_4_2_by_knightyamato_29
+    21300060: blank_sprite_sheet_4_2_by_knightyamato_30
+    21300062: blank_sprite_sheet_4_2_by_knightyamato_31
+    21300064: blank_sprite_sheet_4_2_by_knightyamato_32
+    21300066: blank_sprite_sheet_4_2_by_knightyamato_33
+    21300068: blank_sprite_sheet_4_2_by_knightyamato_34
+    21300070: blank_sprite_sheet_4_2_by_knightyamato_35
+    21300072: blank_sprite_sheet_4_2_by_knightyamato_36
+    21300074: blank_sprite_sheet_4_2_by_knightyamato_37
+    21300076: blank_sprite_sheet_4_2_by_knightyamato_38
+    21300078: blank_sprite_sheet_4_2_by_knightyamato_39
+    21300080: blank_sprite_sheet_4_2_by_knightyamato_40
+    21300082: blank_sprite_sheet_4_2_by_knightyamato_41
+    21300084: blank_sprite_sheet_4_2_by_knightyamato_42
+    21300086: blank_sprite_sheet_4_2_by_knightyamato_43
+    21300088: blank_sprite_sheet_4_2_by_knightyamato_44
+    21300090: blank_sprite_sheet_4_2_by_knightyamato_45
+    21300092: blank_sprite_sheet_4_2_by_knightyamato_46
+    21300094: blank_sprite_sheet_4_2_by_knightyamato_47
+    21300096: blank_sprite_sheet_4_2_by_knightyamato_48
+    21300098: blank_sprite_sheet_4_2_by_knightyamato_49
+    21300100: blank_sprite_sheet_4_2_by_knightyamato_50
+    21300102: blank_sprite_sheet_4_2_by_knightyamato_51
+    21300104: blank_sprite_sheet_4_2_by_knightyamato_52
+    21300106: blank_sprite_sheet_4_2_by_knightyamato_53
+    21300108: blank_sprite_sheet_4_2_by_knightyamato_54
+    21300110: blank_sprite_sheet_4_2_by_knightyamato_55
+    21300112: blank_sprite_sheet_4_2_by_knightyamato_56
+    21300114: blank_sprite_sheet_4_2_by_knightyamato_57
+    21300116: blank_sprite_sheet_4_2_by_knightyamato_58
+    21300118: blank_sprite_sheet_4_2_by_knightyamato_59
+    21300120: blank_sprite_sheet_4_2_by_knightyamato_60
+    21300122: blank_sprite_sheet_4_2_by_knightyamato_61
+    21300124: blank_sprite_sheet_4_2_by_knightyamato_62
+    21300126: blank_sprite_sheet_4_2_by_knightyamato_63
+    21300128: blank_sprite_sheet_4_2_by_knightyamato_64
+    21300130: blank_sprite_sheet_4_2_by_knightyamato_65
+    21300132: blank_sprite_sheet_4_2_by_knightyamato_66
+    21300134: blank_sprite_sheet_4_2_by_knightyamato_67
+    21300136: blank_sprite_sheet_4_2_by_knightyamato_68
+    21300138: blank_sprite_sheet_4_2_by_knightyamato_69
+    21300140: blank_sprite_sheet_4_2_by_knightyamato_70
+    21300142: blank_sprite_sheet_4_2_by_knightyamato_71
+    21300144: blank_sprite_sheet_4_2_by_knightyamato_72
+    21300146: blank_sprite_sheet_4_2_by_knightyamato_73
+    21300148: blank_sprite_sheet_4_2_by_knightyamato_74
+    21300150: blank_sprite_sheet_4_2_by_knightyamato_75
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 6
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 23
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 23
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 160
+        width: 23
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 23
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 23
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 33
+        width: 23
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 23
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 65
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_63
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 33
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_74
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blank_sprite_sheet_4_2_by_knightyamato_75
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

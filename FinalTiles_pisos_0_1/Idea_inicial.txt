@@ -1,0 +1,42 @@
+*****DIA 17/02/2017 (primera sesion)
+***Grupo 11 - Projecto I - Videojuegos
+
+*Requisitos: 
+	movimiento en 4 direcciones usando raycast suponemos
+	movimiento continuo en escenario hecho usando tiles
+
+----> hay que ajustar la camara segun la resolucion
+
+*Primeras ideas:
+	Puzzles con cajas y plataformas, sideview
+	Dungeon crawler (zelda original, top-down view a lo isaac)
+	Scape the room (personaje despierta ya dentro etc)
+	Matar niños (diversion asegurada)
+
+----> dungeon crawler donde empiezas dentro y hay que escapar
+	con puzzles o enemigos, vista top-down...
+
+*Puzzles:
+	Cubos, palancas, llaves, botones, dianas, bombas (barriles)
+	Mecanicas: empujar, pulsar, golpear, acertar a distancia
+	Algun poder magico o especial a distancia? A lo inyectarse plasmidos
+
+----> de momento ninguno vital para historia/theme luego implementar de simple a complejo
+
+*Enemigos:
+	Boss, normales, a distancia. (depende de theme)
+
+----> podemos decidir por diseño que sean solo puzzles etc
+
+*Mapa:
+	Habitaciones conectadas, mapa simple, habitaciones secretas (barriles)
+
+----> con un control o en el hud Galletas (si, eso fue un easter-egg)
+	
+*Historia/theme:
+	Refugio nuclear
+	"Rata de laboratorio"
+	Manicomnio encantado/con asesinos
+	(siempre queda el dungeon con algo retorcido que los tileset abundan)
+	
+-----> Se pueden mezclar (depende de los tileset y sprites que encontremos)

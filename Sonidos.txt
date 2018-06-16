@@ -1,0 +1,8 @@
+1. Sirena de alarma nuclear -
+2. Sonido de ordenador (corto, como un click) -
+3. Ruido de interferencias -
+4. Sonido de hojas de papel (sonido como de hojas de papel revueltas) -
+5. Sonido de murmullos (duración corta/media) -
+6. Sonido metálico (corto, como el de una placa de metal) -
+7. Sonido de personas hablando (duración corta/media)
+8. Música créditos

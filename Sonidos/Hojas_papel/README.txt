@@ -1,0 +1,1 @@
+Se usa en los pisos 0 y 1: al interaccionar con los papeles que hay en el suelo de las salas 6 (piso 0) y 4 (habitación científico piso 1).
